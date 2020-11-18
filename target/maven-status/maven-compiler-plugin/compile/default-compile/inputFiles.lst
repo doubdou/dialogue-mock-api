@@ -1,0 +1,12 @@
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\request\DialogManageRequest.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\response\DialogData.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\api\IDialogService.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\response\DialogAction.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\response\DialogPlayTTSParams.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\response\DialogPlayFileParams.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\response\DialogDetectSpeechParams.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\response\DialogActionParams.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\enums\DialogActionTypeEnum.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\response\DialogGetDTMFParams.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\enums\DialogRequestEnum.java
+D:\dev\github\dialogue-mock\src\main\java\ai\cbz\inbound\common\response\DialogManageResponse.java
