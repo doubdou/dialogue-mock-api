@@ -1,5 +1,6 @@
 package ai.cbz.inbound.common.response;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -9,7 +10,11 @@ import java.util.List;
 public class DialogData {
     List<DialogAction> actions;
 
-    public List<DialogAction> getActions(){
-        return this.actions;
-    }
+    public  DialogData(){ actions = new ArrayList<>(); }
+
+    public void setActions(List<DialogAction> actions) { this.actions = actions; }
+
+    public List<DialogAction> getActions(){ return this.actions; }
+
+    public void addAction(DialogAction action){ actions.add(action); }
 }

@@ -10,7 +10,6 @@ public class DialogAction {
     DialogActionTypeEnum actionTypeEnum;
     DialogActionParams params;
 
-
     public DialogActionTypeEnum getAction(){
         return this.actionTypeEnum;
     }
@@ -19,11 +18,7 @@ public class DialogAction {
         this.actionTypeEnum = actionTypeEnum;
     }
 
-    public DialogActionParams getParams() {
-        return params;
-    }
+    public DialogActionParams getParams() { return params; }
 
-    public void setParams(DialogActionParams params) {
-        this.params = params;
-    }
+    public void setParams(DialogActionParams params) { this.params = params; }
 }
